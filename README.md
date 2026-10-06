@@ -39,11 +39,12 @@ I analyzed book genre, ratings, prices, authors, and how the genre distribution 
 - **Jeff Kinney** appeared most frequently in the dataset, with **12 books**.
 - Non Fiction books appeared more often in most years, although the difference changed over time.
 
+
   ## Recommendations
 
 Based on my analysis:
 
-1. **Maintain a strong Non Fiction selection**  
+1. **Maintain a strong Non Fiction selection**
    Non Fiction books appeared more often in the bestseller dataset.
 
 2. **Promote highly rated Fiction books**  
@@ -51,6 +52,7 @@ Based on my analysis:
 
 3. **Consider genre when reviewing prices**  
    Non Fiction books had a higher average price.
+
 
    ## Files
 
