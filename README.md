@@ -44,14 +44,11 @@ I analyzed book genre, ratings, prices, authors, and how the genre distribution 
 
 Based on my analysis:
 
-1. **Maintain a strong Non Fiction selection**
-The retailer could maintain a strong Non Fiction selection because it appeared more often in the bestseller dataset.
+1. **Maintain a strong Non Fiction selection** - The retailer could maintain a strong Non Fiction selection because it appeared more often in the bestseller dataset.
 
-2. **Promote highly rated Fiction books**
-The retailer could consider promoting highly rated Fiction books because Fiction had a slightly higher average rating.
+2. **Promote highly rated Fiction books** - The retailer could consider promoting highly rated Fiction books because Fiction had a slightly higher average rating.
 
-3. **Consider genre when reviewing prices**
-The retailer could consider genre when reviewing book prices, as Non Fiction books had a higher average price.
+3. **Consider genre when reviewing prices** - The retailer could consider genre when reviewing book prices, as Non Fiction books had a higher average price.
 
 
 ## Files
