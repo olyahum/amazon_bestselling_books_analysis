@@ -40,21 +40,21 @@ I analyzed book genre, ratings, prices, authors, and how the genre distribution 
 - Non Fiction books appeared more often in most years, although the difference changed over time.
 
 
-  ## Recommendations
+## Recommendations
 
 Based on my analysis:
 
 1. **Maintain a strong Non Fiction selection**
-   Non Fiction books appeared more often in the bestseller dataset.
+The retailer could maintain a strong Non Fiction selection because it appeared more often in the bestseller dataset.
 
-3. **Promote highly rated Fiction books**  
-   Fiction books had a slightly higher average rating.
+2. **Promote highly rated Fiction books**
+The retailer could consider promoting highly rated Fiction books because Fiction had a slightly higher average rating.
 
-4. **Consider genre when reviewing prices**  
-   Non Fiction books had a higher average price.
+3. **Consider genre when reviewing prices**
+The retailer could consider genre when reviewing book prices, as Non Fiction books had a higher average price.
 
 
-   ## Files
+## Files
 
 - `What Makes a Bestseller.ipynb` - Python and Pandas analysis
 - `What Makes a Bestseller__Case_Study.pdf` - full case study
