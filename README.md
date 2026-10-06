@@ -47,10 +47,10 @@ Based on my analysis:
 1. **Maintain a strong Non Fiction selection**
    Non Fiction books appeared more often in the bestseller dataset.
 
-2. **Promote highly rated Fiction books**  
+3. **Promote highly rated Fiction books**  
    Fiction books had a slightly higher average rating.
 
-3. **Consider genre when reviewing prices**  
+4. **Consider genre when reviewing prices**  
    Non Fiction books had a higher average price.
 
 
